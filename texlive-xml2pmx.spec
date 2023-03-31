@@ -1,6 +1,6 @@
 Name:		texlive-xml2pmx
 Version:	57972
-Release:	1
+Release:	2
 Summary:	Convert MusicXML to PMX and MusiXTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xml2pmx
