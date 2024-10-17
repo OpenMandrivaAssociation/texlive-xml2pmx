@@ -3,7 +3,7 @@ Version:	57972
 Release:	2
 Summary:	Convert MusicXML to PMX and MusiXTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xml2pmx
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/xml2pmx
 License:	gpl3+
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xml2pmx.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xml2pmx.doc.r%{version}.tar.xz
